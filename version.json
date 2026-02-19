@@ -2,7 +2,6 @@
   "modId": "potato-tool",
   "mcVersion": "1.21.10",
   "latest": "1.0.3",
-  "url": "https://github.com/Potato-Tool/Potato-Tool/releases/download/1.0.3/Potato_Tool-1.0.3-mc1.21.10.jar",
-  "sha256": "PUT_REAL_SHA256_HERE"
+  "url": "https://github.com/Potato-Tool/Potato-Tool/releases/download/1.0.3-public/Potato_Tool-1.0.3-mc1.21.10.jar",
+  "sha256": "7491a53f01e4b896ed2db4b966dbab52b6c1246ae5d6f5deb5a221a577b55f03"
 }
-
