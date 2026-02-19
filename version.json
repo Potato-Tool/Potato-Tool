@@ -1,0 +1,8 @@
+{
+  "modId": "potato-tool",
+  "mcVersion": "1.21.10",
+  "latest": "1.0.1-mc1.21.10",
+  "url": "https://github.com/Potato-Tool/Potato-Tool/releases/download/1.21.10/potato-tool-1.0.1-mc1.21.10.jar",
+  "sha256": "3b9643854ae7bf071be66e23f5190fc0a0ff98caba700d709e567e6533aeeaa3",
+  "changelog": "Initial public build"
+}
